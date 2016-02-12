@@ -1,0 +1,21 @@
+{
+    "name": "digitalrift/dit-orm",
+    "description": "DiT ORM",
+    "license": "MIT",
+    "homepage":"http://digitalrift.org",
+    "authors": [
+        {
+            "name": "Yuriy Seleznev",
+            "email": "sendelius@gmail.com"
+        },{
+            "name": "Alex Kalantaryan",
+            "email": "alex_phant0m@mail.ru"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "DiTORM\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
